@@ -1,0 +1,9 @@
+build:
+  version: 1.0
+loan:
+  contact-details:
+    phone: +998909014459
+    email: shukhratDev1201@gmail.com
+  on-call-support:
+    - 998901234567
+    - 998903217685

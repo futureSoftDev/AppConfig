@@ -1,0 +1,9 @@
+build:
+  version: 2.0
+card:
+  contact-details:
+    phone: +998909014459
+    email: myemail@gmail.com
+  on-call-support:
+    - 998901234567
+    - 998903217685
