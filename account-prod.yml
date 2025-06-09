@@ -2,7 +2,7 @@ build:
   version: 1.0
 account:
   contact-details:
-    phone: test
+    phone: testtesttest
     email: shukhratDev1201@gmail.com
   on-call-support:
     - 121212121212
